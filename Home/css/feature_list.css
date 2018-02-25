@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto';font-size: 15px;
+
+}
+
+.service-section {
+    padding: 4em 0 3.5em;
+}
+.botmargin {
+    margin-bottom: 1em;
+}
+
+.icon {
+    color : #FFFAF0;
+    padding:15px;
+    font-size:50px;
+    padding-top:50px;
+}
+.service-section h4 a {
+    
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    color: black;
+    padding-bottom: 0em;
+    position: relative;
+    
+}
+.service-section h4 a:hover {
+    color: #FFFAF0;
+}
+.project-title {
+    font-size: 3.9em;
+    letter-spacing: 4px;
+    color: #808080;
+    padding-bottom: 0.2em;
+    position: relative;
+}
+
+.project-slogan {
+    font-family: 'Abel', sans-serif;
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+}
+
+.text-heading-line {
+    position: relative;
+    content: "";
+    height: 1px;
+    background: #FFFAF0;
+    width: 44%;
+    margin: 0 auto;
+    top: 1px; 
+}
+
+.text-heading-line-left {
+    position: relative;
+    content: "";
+    height: 1px;
+    background: #008e10;
+    width: 44%;
+    margin: 0 auto;
+    top: 0px;
+    left: -316px; 
+}
